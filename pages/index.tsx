@@ -179,7 +179,7 @@ const Home: NextPage = () => {
 
       <div className={styles.container}>
         <h2>CURSECODE'S TODO APP</h2>
-        <a href="//cursecode.me">my site<a/>
+        <a href="//cursecode.me">my site</a>
 
         {/* Search Header */}
         <div className={styles.searchHeader}>
