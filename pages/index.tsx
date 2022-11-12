@@ -173,12 +173,13 @@ const Home: NextPage = () => {
   return (
     <div>
       <Head>
-        <title>Todo App using Next.js + Tigris</title>
+        <title>CURSECODE</title>
         <meta name="description" content="Tigris app tutorial" />
       </Head>
 
       <div className={styles.container}>
-        <h2>Sample Todo app using Next.js and Tigris</h2>
+        <h2>CURSECODE'S TODO APP</h2>
+        <a href="//cursecode.me">my site<a/>
 
         {/* Search Header */}
         <div className={styles.searchHeader}>
